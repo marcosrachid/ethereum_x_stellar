@@ -17,12 +17,17 @@ Comparação entre os protocolos no ano de 2018.
 
 ## Stellar
 
-*
+* Fundada por Jed McCaleb, que também é co-founder da criptomoeda Ripple, e Joyce Kim.
+* Baseada no código do Ripple.
+* Criptomoeda corrente é a Stellar Lumens(XLM).
+* Protocólo de transferência de pagamentos.
+* A plataforma está trabalhando em uma solução de desenvolvimento para aplicações não complexas por meio de Smart Contracts simples. O que significa que sistemas complexos não serão desenvolvidos porém serão mais rapidos.
+* Erradicou o conceito de mineração para a verificação de transações, ao invés disso, busca o consenso por meio da comunicação entre os servidores que completam o processo em poucos segundos. As operações são baseadas em uma blockchain-based distributed ledger technology(DLT), não dependendo simplesmente da blockchain.
+* Parceria com a IBM.
+* Fácil acesso através dos "Anchors", que servem como o link entre a rede Stellar e o usuário final. Contactando os anchors é possivel utilizar os serviços, qualquer cliente pode depositar sua moeda nativa na Stellar network, funcionando como o serviço do paypal de forma global. Citando como exemplo podemos dizer que podemos fazer uma transação BRL x EUR através do anchors da network Stellar.
 
 ## Source
 
 Source  | Data
 ------------- | -------------
-Link 1  | <https://www.bitdegree.org/tutorials/eos-vs-ethereum/>
-Link 2  | <https://coincentral.com/ethereum-vs-eos/>
-Link 3  | <https://www.eoscanada.com/en/inflation-on-eos-what-do-i-need-to-know>
+Link 1  | <https://unblock.net/stellar-vs-ethereum/>
